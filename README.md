@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Austin Dsouza</h1>
 <h3 align="center">Exploring finance and data</h3>
 
-- 🌱 I’m currently learning **Python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/whoisaustin7?tab=repositories](https://github.com/whoisaustin7?tab=repositories)
 
 - 📫 How to reach me **austinmelroyd@gmail.com**
