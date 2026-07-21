@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/whoisaustin7?tab=repositories](https://github.com/whoisaustin7?tab=repositories)
 
-- 📫 How to reach me **austinmelroydsouza@gmail.com**
+- 📫 How to reach me **austinmelroyds@gmail.com**
 
 - ⚡ Fun fact **Im fueled by coffee and solving problems**
 
