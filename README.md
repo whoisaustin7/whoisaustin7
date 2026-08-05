@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Hi,%20I'm%20Austin%20Dsouza&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Audit%20%26%20Compliance%20Professional%20|%20Data%20%26%20Business%20Analytics%20|%20HR%20Analytics&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Hii%20My%20Name%20Is%20Austin%20Melroy%20Dsouza&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Audit%20%26%20Compliance%20Professional%20|%20Data%20%26%20Business%20Analytics%20|%20HR%20Analytics&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Statutory+Audit+%26+Tax+Compliance;GST+%2F+TDS+%2F+Income+Tax+Specialist;Power+BI+%2B+Tableau+%2B+SQL+Analytics;Building+Toward+HR+%26+People+Analytics" alt="Typing SVG" />
@@ -255,16 +255,6 @@ Led day-to-day operations for a café/F&B business, progressing from an entry-le
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoisaustin7&theme=react-dark&bg_color=0D0B1E&color=A78BFA&line=7C3AED&point=E5E7EB&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/whoisaustin7/whoisaustin7/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
