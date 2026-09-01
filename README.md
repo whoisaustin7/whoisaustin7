@@ -1,8 +1,5 @@
 # Hi, I'm Austin! 👋
 
-📊 Audit Assistant @ Gonsalves & Nayak
-📍 Mangalore, India
-
 I turn financial, operational, and workforce data into clear, decision-ready insight. My work sits at the intersection of audit/compliance and analytics — I don't just process the numbers, I build the dashboards that make them usable.
 
 ## 💻 What I work with
