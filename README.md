@@ -13,27 +13,10 @@ I turn financial, operational, and workforce data into clear, decision-ready ins
 - TallyPrime, GSTN & Income Tax portals
 - Python (in progress)
 
-## 📊 Projects
+## 💼 Experience
 
-- 🌤️ UAE Weather Report — real-time Power BI dashboard on live weather, air quality, and rain-probability data
-- 🧑‍💼 HR Analytics Dashboard — workforce KPI modeling (headcount, attrition, tenure) built for a pivot into people analytics
-- 🚖 Uber Trip Analysis — Power BI dashboard on booking, revenue, and demand patterns from ride-level data
-- 💳 Credit Card Dashboard — Power BI reporting on spend and customer behavior
-- 🛒 Blinkit Dashboard — Power BI analysis of quick-commerce order data
+**Audit Assistant — Gonsalves & Nayak** *(Current)*
+Handling statutory audits, GST/TDS compliance, and income tax filing across a diverse portfolio of client entities. This means reviewing books of accounts, reconciling tax filings (GSTR, 24Q/26Q), preparing Form 16/16A, and supporting regulatory registrations like 12AB, 80G, and FCRA — work that demands precision, since a single reconciliation error can cascade into a compliance issue for a client.
 
-## 🎓 Background
-
-- B.Com, St. Aloysius Degree College, Karnataka
-- Audit Assistant @ Gonsalves & Nayak — statutory audits, GST/TDS compliance, income tax filing
-- Previously Senior Operations Manager @ Waffee House (F&B) — promoted from Operations Associate; drove 42% sales growth and 107% footfall growth
-- Certified in HR Analytics (GE Aerospace) and Strategy Consulting (Accenture)
-
-## ✨ Currently
-
-- Building out a Power BI & Tableau analytics portfolio
-- Expanding into HR and people analytics
-
-## 📫 Connect with me
-
-- LinkedIn: [linkedin.com/in/austinmelroyd](https://linkedin.com/in/austinmelroyd)
-- GitHub: [github.com/whoisaustin7](https://github.com/whoisaustin7)
+**Senior Operations Manager — Waffee House** *(Prior role, promoted from Operations Associate)*
+Ran day-to-day operations for a café/F&B business — staffing, customer experience, inventory, and cost control — and was promoted into the senior role after consistently improving key
